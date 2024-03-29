@@ -399,3 +399,4 @@ vcpkg_installed
 
 # CLION
 cmake-build-debug*
+config.lua.dist
