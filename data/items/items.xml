@@ -8512,7 +8512,6 @@
 		<attribute key="defense" value="1"/>
 		<attribute key="weight" value="1500"/>
 		<attribute key="script" value="moveevent;weapon">
-			<attribute key="action" value="removecharge"/>
 			<attribute key="weaponType" value="sword"/>
 			<attribute key="slot" value="hand"/>
 		</attribute>
@@ -8777,7 +8776,7 @@
 		<attribute key="attack" value="52"/>
 		<attribute key="defense" value="22"/>
 		<attribute key="weight" value="9000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -9031,7 +9030,7 @@
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="weight" value="9900"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -17933,7 +17932,7 @@
 		<attribute key="attack" value="50"/>
 		<attribute key="defense" value="38"/>
 		<attribute key="weight" value="6400"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -18060,7 +18059,7 @@
 		<attribute key="attack" value="50"/>
 		<attribute key="defense" value="15"/>
 		<attribute key="weight" value="5800"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -20014,7 +20013,7 @@
 		<attribute key="attack" value="51"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="12000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -20417,7 +20416,7 @@
 		<attribute key="attack" value="51"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="9900"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -22279,7 +22278,7 @@
 		<attribute key="attack" value="53"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="12000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -22314,7 +22313,7 @@
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="weight" value="6500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -22334,7 +22333,7 @@
 		<attribute key="attack" value="51"/>
 		<attribute key="defense" value="20"/>
 		<attribute key="weight" value="11500"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -22375,7 +22374,7 @@
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="4500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -34457,7 +34456,7 @@
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="29"/>
 		<attribute key="weight" value="7600"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -34479,7 +34478,7 @@
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="5900"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -39518,7 +39517,7 @@
 		<attribute key="attack" value="50"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="weight" value="4000"/>
-		<attribute key="imbuementslot" value="2"/>
+		<attribute key="imbuementslot" value="3"/>
 		<attribute key="script" value="moveevent;weapon">
 			<attribute key="level" value="75"/>
 			<attribute key="unproperly" value="true"/>
@@ -39802,7 +39801,7 @@
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="29"/>
 		<attribute key="weight" value="5900"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -39825,7 +39824,7 @@
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="5500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -39861,7 +39860,7 @@
 		<attribute key="attack" value="52"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="9500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -39883,7 +39882,7 @@
 		<attribute key="attack" value="54"/>
 		<attribute key="defense" value="35"/>
 		<attribute key="weight" value="9000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -39919,7 +39918,7 @@
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="27"/>
 		<attribute key="weight" value="8500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -39942,7 +39941,7 @@
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="weight" value="8000"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -39978,7 +39977,7 @@
 		<attribute key="attack" value="52"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="weight" value="11500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40000,7 +39999,7 @@
 		<attribute key="attack" value="54"/>
 		<attribute key="defense" value="34"/>
 		<attribute key="weight" value="11000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40036,7 +40035,7 @@
 		<attribute key="extradef" value="2"/>
 		<attribute key="defense" value="26"/>
 		<attribute key="weight" value="8500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40059,7 +40058,7 @@
 		<attribute key="extradef" value="3"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="weight" value="8000"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40095,7 +40094,7 @@
 		<attribute key="attack" value="53"/>
 		<attribute key="defense" value="30"/>
 		<attribute key="weight" value="16500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40117,7 +40116,7 @@
 		<attribute key="attack" value="55"/>
 		<attribute key="defense" value="34"/>
 		<attribute key="weight" value="16000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40156,7 +40155,7 @@
 		<attribute key="range" value="7"/>
 		<attribute key="attack" value="4"/>
 		<attribute key="weight" value="4500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40180,7 +40179,7 @@
 		<attribute key="range" value="7"/>
 		<attribute key="attack" value="6"/>
 		<attribute key="weight" value="4000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40219,7 +40218,7 @@
 		<attribute key="range" value="5"/>
 		<attribute key="attack" value="6"/>
 		<attribute key="weight" value="12500"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -40243,7 +40242,7 @@
 		<attribute key="range" value="5"/>
 		<attribute key="attack" value="9"/>
 		<attribute key="weight" value="12000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -45276,7 +45275,7 @@ Awarded by TibiaMisterios.com.br"/>
 		<attribute key="attack" value="51"/>
 		<attribute key="defense" value="32"/>
 		<attribute key="weight" value="7700"/>
-		<attribute key="imbuementslot" value="1">
+		<attribute key="imbuementslot" value="2">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -54161,7 +54160,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="attack" value="56"/>
 		<attribute key="defense" value="34"/>
 		<attribute key="weight" value="8200"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -54185,7 +54184,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="attack" value="10"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="weight" value="9500"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -55364,7 +55363,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="attack" value="11"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="weight" value="8900"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -57165,7 +57164,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="hitChance" value="6"/>
 		<attribute key="attack" value="7"/>
 		<attribute key="weight" value="4000"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -59157,7 +59156,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="attack" value="7"/>
 		<attribute key="defense" value="32"/>
 		<attribute key="weight" value="8100"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -61603,7 +61602,7 @@ hands of its owner. Granted by TibiaRoyal.com"/>
 		<attribute key="attack" value="5"/>
 		<attribute key="defense" value="32"/>
 		<attribute key="weight" value="7200"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -65764,7 +65763,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="attack" value="52"/>
 		<attribute key="defense" value="31"/>
 		<attribute key="weight" value="8900"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -67232,7 +67231,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="cleavepercent" value="3"/>
 		<attribute key="weight" value="8500"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -67256,7 +67255,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="cleavepercent" value="3"/>
 		<attribute key="weight" value="8600"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -67279,7 +67278,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="cleavepercent" value="3"/>
 		<attribute key="weight" value="8200"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -67303,7 +67302,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="cleavepercent" value="3"/>
 		<attribute key="weight" value="8300"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
@@ -67326,7 +67325,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="cleavepercent" value="3"/>
 		<attribute key="weight" value="6500"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -67350,7 +67349,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="defense" value="33"/>
 		<attribute key="cleavepercent" value="3"/>
 		<attribute key="weight" value="6600"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="elemental damage" value="3"/>
 			<attribute key="life leech" value="3"/>
 			<attribute key="mana leech" value="3"/>
@@ -67366,7 +67365,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 	</item>
 	<item id="36663" article="a" name="eldritch cuirass">
 		<attribute key="primarytype" value="armors"/>
-		<attribute key="absorbpercentphysical" value="10"/>
+		<attribute key="absorbpercentphysical" value="20"/>
 		<attribute key="armor" value="16"/>
 		<attribute key="weight" value="11000"/>
 		<attribute key="imbuementslot" value="2">
@@ -67500,7 +67499,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="perfectshotdamage" value="65"/>
 		<attribute key="perfectshotrange" value="4"/>
 		<attribute key="weight" value="3700"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="mana leech" value="3"/>
 			<attribute key="critical hit" value="3"/>
 			<attribute key="skillboost magic level" value="3"/>
@@ -67614,7 +67613,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="healingmagiclevelpoints" value="2"/>
 		<attribute key="range" value="4"/>
 		<attribute key="weight" value="3500"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="mana leech" value="3"/>
 			<attribute key="skillboost axe" value="3"/>
 			<attribute key="skillboost sword" value="3"/>
@@ -67644,7 +67643,7 @@ former students at the Noodles Academy. Awarded by TibiaLabs.com"/>
 		<attribute key="healingmagiclevelpoints" value="2"/>
 		<attribute key="range" value="4"/>
 		<attribute key="weight" value="3600"/>
-		<attribute key="imbuementslot" value="2">
+		<attribute key="imbuementslot" value="3">
 			<attribute key="mana leech" value="3"/>
 			<attribute key="skillboost axe" value="3"/>
 			<attribute key="skillboost sword" value="3"/>
